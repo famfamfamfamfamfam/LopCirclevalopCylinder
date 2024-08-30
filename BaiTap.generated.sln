@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaiTap", "BaiTap.csproj", "{CC5D3C40-82D4-4789-94A4-C4A9135C2990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5D3C40-82D4-4789-94A4-C4A9135C2990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D3C40-82D4-4789-94A4-C4A9135C2990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5D3C40-82D4-4789-94A4-C4A9135C2990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5D3C40-82D4-4789-94A4-C4A9135C2990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B07BCF5-B00F-46E4-BD6A-338EDAF3F57C}
+	EndGlobalSection
+EndGlobal
